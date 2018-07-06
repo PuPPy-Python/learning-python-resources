@@ -25,7 +25,8 @@
 
 ## Learn Machine Learning:
 - [Fast.AI](http://www.fast.ai/) | Free
--[Udacity: Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120) | Free
+
+- [Udacity: Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120) | Free
 
 ## Learn computer vision:
 [Udacity: Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)

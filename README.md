@@ -16,3 +16,16 @@
 
 - [coursera: Introduction to Interactive Programming in Python](https://www.coursera.org/course/interactivepython1/)
 
+- [Udacity: Data Structures & Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+
+## Learn Python for Data:
+- [Udacity: Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+- [Siraj: Learn Python for Data Science](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+- [Edx: ython for Data Science](https://www.edx.org/course/python-for-data-science)
+
+## Learn Machine Learning:
+- [Fast.AI](http://www.fast.ai/) | Free
+-[Udacity: Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120) | Free
+
+## Learn computer vision:
+[Udacity: Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)

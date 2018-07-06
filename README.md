@@ -14,14 +14,12 @@
 
 - [RealPython Course](https://realpython.com/) - an awesome course that takes you from a beginner in Python to having a great foundation as a full-stack python dev (use promo code ‘50OFF4FB’ to get 50% off)
 
-- [coursera: Introduction to Interactive Programming in Python](https://www.coursera.org/course/interactivepython1/)
-
 - [Udacity: Data Structures & Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 
 ## Learn Python for Data:
 - [Udacity: Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 - [Siraj: Learn Python for Data Science](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
-- [Edx: ython for Data Science](https://www.edx.org/course/python-for-data-science)
+- [Edx: Python for Data Science](https://www.edx.org/course/python-for-data-science)
 
 ## Learn Machine Learning:
 - [Fast.AI](http://www.fast.ai/) | Free
